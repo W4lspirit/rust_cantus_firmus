@@ -6,5 +6,11 @@ From Ocaml to Rust
 
 
 # Note
-* Code translation is not finished
+* Code translation is finished
 * Code Has Not Been Compiled yet :D
+
+# TODO
+* Need to add tests
+* Clean code
+* Analyse memory footprint
+* Add MIDI lib 
